@@ -5,3 +5,6 @@
 ### Sesion 2 - updateted the cricuit in Tinkercad and tested with the rgb led
 - Found a mistake in my circuit and fixed it (I accidentally swapped the GND and the positive terminal.) (`images/circuit-v2.png`)
 - tested the rgb led with a little program and uploaded it into my github (`test_code/rgb.ino`).
+### Sesion 3 - updateted the circuit in Tinkercad and tested with the piezo buzzer
+- Switched the vibration motor for a piezo buzzer and uploaded a screenshot of my new cicuit (`images/circuit-v3.png`)
+- tested the piezo buzzer with a little program and uploaded it into my github (`test_code/buzzer/piezo.ino`)
