@@ -13,6 +13,7 @@
 ### Sesion 5 - tested with the ultrasonic sensor
 - made a little test program for the servo motor and uploaded it into my github (`test_code/ultrasonic-sensor/ultrasonic-sensor.ino`)
 - made a info md for the ultrasonic sensor(`test_code/ultrasonic-sensor/ultrasonic-sensor-info.md`)
-### Sesion 6 - Programed the main program 
+### Sesion 6 - Programed the main program and made the bom
 - Made the `main.ino` and uploaded it onto my github
 - made the `README.md` and uploaded it onto my github.
+- made the `BOM.scv` and uploaded it onto my github.
