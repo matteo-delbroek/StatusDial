@@ -17,3 +17,7 @@
 - Made the `main.ino` and uploaded it onto my github
 - made the `README.md` and uploaded it onto my github.
 - made the `BOM.scv` and uploaded it onto my github.
+### Sesion 6 - Added the dimensions and updated the bom
+- Opent the tinkercad in fusion.
+- edit the bom.scv so there are bolts.
+- made the dimensions.md and added it to github `dimensions.md`
