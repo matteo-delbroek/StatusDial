@@ -1,5 +1,5 @@
 ### Servo motor test code
-This is only for testing or getting started; this is not the actual program!
+This is only for testing or getting started this is not the actual program!
 
 1. Flash `test_code/servo/servo.ino` onto your Arduino and make sure the wiring is correct:
 
