@@ -10,3 +10,9 @@
 - tested the piezo buzzer with a little program and uploaded it into my github (`test_code/buzzer/piezo.ino`)
 ### Sesion 4 - tested with the servo motor
 - Made a little test program for the servo motor and uploaded it into my github (`test_code/servo/servo.ino`)
+### Sesion 5 - tested with the ultrasonic sensor
+- made a little test program for the servo motor and uploaded it into my github (`test_code/ultrasonic-sensor/ultrasonic-sensor.ino`)
+- made a info md for the ultrasonic sensor(`test_code/ultrasonic-sensor/ultrasonic-sensor-info.md`)
+### Sesion 6 - Programed the main program 
+- Made the `main.ino` and uploaded it onto my github
+- made the `README.md` and uploaded it onto my github.

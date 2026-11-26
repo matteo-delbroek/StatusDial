@@ -1,13 +1,13 @@
 #include <Servo.h>
-Servo mijnservo;
+Servo minservo;
 
 void setup() {
-  mijnservo.attach(8);
+  minservo.attach(8);
 }
 
 void loop() {
-  mijnservo.write(90);
+  minservo.write(90);
   delay(500);
-  mijnservo.write(0);
+  minservo.write(0);
   delay(500);
 }
