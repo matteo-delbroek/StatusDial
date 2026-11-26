@@ -8,3 +8,5 @@
 ### Sesion 3 - updateted the circuit in Tinkercad and tested with the piezo buzzer
 - Switched the vibration motor for a piezo buzzer and uploaded a screenshot of my new cicuit (`images/circuit-v3.png`)
 - tested the piezo buzzer with a little program and uploaded it into my github (`test_code/buzzer/piezo.ino`)
+### Sesion 4 - tested with the servo motor
+- Made a little test program for the servo motor and uploaded it into my github (`test_code/servo/servo.ino`)
