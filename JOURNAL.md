@@ -17,7 +17,11 @@
 - Made the `main.ino` and uploaded it onto my github
 - made the `README.md` and uploaded it onto my github.
 - made the `BOM.scv` and uploaded it onto my github.
-### Sesion 6 - Added the dimensions and updated the bom
+### Sesion 7 - Added the dimensions and updated the bom
 - Opent the tinkercad in fusion.
 - edit the bom.scv so there are bolts.
 - made the dimensions.md and added it to github `dimensions.md`
+### Sesion 8 - Made the 3D file in Fusion
+- Made the case so the RGB LED, the ultrasonic sensor, the servo, the arduino uno r4 minima and the piezo can be stored
+- Made the lid so the case can be closed.
+- uploaded the fusion f3d the step and the stl to my github (`3D_design/`)
