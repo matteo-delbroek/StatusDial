@@ -21,7 +21,7 @@ See [`BOM.scv`](BOM.scv) for the full parts list and links.
 
 | Component | Qty | Notes |
 | :--- | :---: | :--- |
-| **Arduino Uno R3** | 1 | Main microcontroller |
+| **Arduino Uno R4 minima** | 1 | Main microcontroller |
 | **Ultrasonic Distance Sensor (3-pin PING)))** | 1 | Single-pin Trigger/Echo (`Pin 7`) |
 | **Micro Servo (SG90 / MG90S)** | 1 | Drives the physical status pointer (`Pin 8`) |
 | **Common-Cathode RGB LED** | 1 | Visual distance status (`Pins 4, 5, 6` with resistors) |
