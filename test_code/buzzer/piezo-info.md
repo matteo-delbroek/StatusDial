@@ -4,7 +4,7 @@ This is only for testing or getting started this is not the actual program!
 
 | Pin | Arduino pin |
 | --- | --- |
-| Piezo min (-) | D4 |
+| Piezo min (-) | Arduino GND |
 | Piezo plus (+) | D5 |
 
 #### What is `tone()`?
